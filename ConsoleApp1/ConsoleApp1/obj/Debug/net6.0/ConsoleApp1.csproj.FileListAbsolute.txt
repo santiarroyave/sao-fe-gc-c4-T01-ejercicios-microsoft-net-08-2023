@@ -1,0 +1,14 @@
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\santi\Desktop\Proyectos\Bootcamp\Repositorios\sao-fe-gc-c4-T01-ejercicios-microsoft-net-08-2023\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
